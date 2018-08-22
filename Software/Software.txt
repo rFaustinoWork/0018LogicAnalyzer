@@ -1,0 +1,10 @@
+
+Download PC software @ https://sigrok.org/wiki/PulseView
+
+
+- Fully compatible
+- Cross-platform
+- Dozens of protocol decoders
+- Fast and easy to use
+
+- License:   GNU GPL, version 3 or later
